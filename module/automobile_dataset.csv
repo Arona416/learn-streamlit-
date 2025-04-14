@@ -1,0 +1,101 @@
+Brand,Model,Year,Engine_Size_L,Fuel_Type,Price_USD
+Honda,Civic,2001,3.0,Petrol,43320.54
+Chevrolet,Model X,2005,3.3,Diesel,39591.86
+BMW,Civic,2021,3.0,Petrol,53260.96
+Chevrolet,Model Y,2010,1.8,Petrol,45428.91
+Chevrolet,Model X,2015,3.9,Diesel,49191.45
+Ford,Focus,2015,2.1,Hybrid,20511.9
+BMW,Series 3,2000,1.1,Petrol,14759.17
+BMW,Civic,2008,3.6,Electric,46283.81
+BMW,Series 3,2005,1.7,Petrol,49375.91
+Chevrolet,Series 3,2015,4.8,Diesel,59477.78
+Honda,Model X,2002,4.8,Diesel,27693.97
+BMW,Series 3,2019,4.7,Diesel,25460.99
+Chevrolet,Focus,2003,2.5,Hybrid,47702.71
+Ford,Series 3,2018,1.1,Petrol,23744.19
+Honda,Model X,2002,4.7,Hybrid,56191.65
+Ford,Focus,2018,2.7,Hybrid,52212.7
+Honda,Model Y,2019,4.9,Diesel,28594.67
+Chevrolet,Series 3,2006,4.9,Diesel,46297.91
+Toyota,Model X,2019,4.4,Hybrid,46499.86
+Honda,Model Y,2008,2.2,Petrol,10671.81
+Ford,Model Y,2000,2.5,Electric,54640.41
+Chevrolet,Civic,2007,4.4,Hybrid,32788.88
+Honda,Focus,2006,2.3,Petrol,50455.16
+Toyota,Series 3,2017,1.7,Diesel,22602.73
+Toyota,Model X,2007,3.2,Diesel,54253.78
+BMW,Civic,2000,4.7,Petrol,26406.09
+BMW,Focus,2010,3.8,Electric,5596.07
+Ford,Civic,2017,3.3,Diesel,54796.01
+Honda,Focus,2022,1.4,Diesel,10020.77
+Honda,Focus,2009,3.5,Diesel,22562.25
+BMW,Series 3,2002,5.0,Petrol,57253.41
+Honda,Focus,2006,1.6,Hybrid,57283.39
+Honda,Civic,2015,3.1,Diesel,36539.08
+Toyota,Focus,2015,4.5,Hybrid,39751.05
+BMW,Series 3,2019,4.0,Electric,29664.5
+Chevrolet,Series 3,2016,3.8,Diesel,21126.59
+BMW,Civic,2001,3.8,Diesel,23076.55
+Chevrolet,Model Y,2000,2.4,Electric,41988.52
+Toyota,Model Y,2015,2.2,Diesel,46380.6
+Ford,Focus,2011,4.2,Hybrid,48536.85
+Honda,Model X,2004,4.2,Petrol,48429.0
+Toyota,Focus,2004,4.5,Hybrid,10016.34
+Honda,Civic,2022,4.7,Petrol,32193.12
+Ford,Civic,2008,3.0,Petrol,8165.73
+Ford,Civic,2008,3.0,Hybrid,35224.09
+Toyota,Civic,2002,4.2,Hybrid,29284.18
+Ford,Civic,2018,3.6,Hybrid,53823.73
+Chevrolet,Series 3,2015,3.8,Hybrid,24300.33
+Ford,Model Y,2015,4.2,Electric,11438.69
+Honda,Civic,2002,4.6,Diesel,12864.54
+Honda,Model X,2019,2.4,Petrol,46883.08
+Honda,Model X,2021,2.5,Hybrid,39001.99
+Honda,Model X,2000,1.4,Hybrid,10561.75
+Chevrolet,Model X,2019,3.3,Hybrid,9625.87
+BMW,Series 3,2010,1.1,Electric,43553.3
+Toyota,Model X,2016,2.9,Hybrid,9001.97
+Honda,Civic,2007,3.2,Hybrid,50202.3
+Ford,Focus,2003,2.1,Hybrid,43843.32
+Honda,Model X,2005,3.4,Diesel,9474.18
+Ford,Series 3,2007,1.1,Electric,9666.07
+Ford,Series 3,2019,1.1,Hybrid,59265.18
+Honda,Model X,2002,4.3,Petrol,25584.89
+Chevrolet,Focus,2015,2.4,Petrol,25385.32
+Ford,Model X,2002,1.5,Petrol,49703.98
+Ford,Series 3,2017,3.1,Electric,57098.67
+Honda,Model Y,2013,4.1,Electric,59230.06
+Ford,Civic,2017,1.9,Petrol,46435.8
+Ford,Series 3,2001,3.5,Hybrid,25694.28
+Honda,Model X,2021,1.3,Electric,9592.54
+Honda,Civic,2002,1.2,Petrol,47743.08
+Toyota,Model X,2015,3.1,Petrol,35712.23
+Chevrolet,Model X,2008,3.2,Hybrid,28332.21
+Chevrolet,Model Y,2003,3.5,Diesel,54849.49
+Ford,Civic,2000,3.9,Electric,11115.86
+Chevrolet,Civic,2003,4.9,Hybrid,32094.38
+Ford,Model Y,2000,3.1,Petrol,5624.45
+Toyota,Series 3,2013,2.3,Petrol,30776.34
+Honda,Model X,2020,4.2,Hybrid,8096.68
+Honda,Focus,2015,2.1,Electric,11534.99
+Honda,Model X,2019,2.8,Diesel,11463.94
+Chevrolet,Model X,2007,1.3,Diesel,40706.57
+Toyota,Series 3,2006,1.1,Petrol,46032.47
+Chevrolet,Model X,2002,4.9,Electric,37085.28
+Chevrolet,Model Y,2016,4.3,Diesel,57919.49
+Toyota,Model Y,2000,3.8,Electric,25617.88
+Toyota,Civic,2015,2.6,Electric,20714.16
+Toyota,Focus,2011,1.7,Petrol,52772.95
+Toyota,Model X,2018,1.6,Diesel,17297.77
+Honda,Model X,2021,2.0,Hybrid,57977.24
+BMW,Series 3,2022,3.2,Petrol,5668.5
+BMW,Model Y,2021,3.9,Diesel,58343.34
+Toyota,Focus,2013,3.6,Diesel,7373.8
+BMW,Civic,2005,2.1,Diesel,54012.87
+BMW,Model Y,2005,4.8,Diesel,34023.56
+Toyota,Civic,2012,4.0,Diesel,59613.06
+BMW,Series 3,2018,3.2,Electric,9058.81
+Chevrolet,Series 3,2021,3.4,Petrol,35461.99
+Ford,Model X,2007,2.7,Electric,58311.64
+Ford,Focus,2001,2.0,Hybrid,33770.38
+Toyota,Civic,2020,2.4,Diesel,39616.93
