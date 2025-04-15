@@ -1,13 +1,29 @@
 import streamlit as st
+import pandas as pd 
 import numpy as np
-import pandas as pd
 import matplotlib.pyplot as plt
+import seaborn as sns
+import plotly.express as px
 
-data = np.random.normal(size=1000)
-data = pd.DataFrame(data, columns=["Dist_norm"])
+########  Plotly ##############
 
-st.dataframe(data.head())
+st.subheader("Plotly")
+# st.title("*Go ahead man*")
 
-fig, ax = plt.subplots()
-ax.hist(data.Dist_norm)
-st.pyplot(fig)
+temps = pd.DataFrame(
+    {
+        'day': ['Monday', 'Tuesday', 'Wednesday', 'thursday', 
+                ' Friday', 'Saturday', 'sunday'],
+          'temp' : [28, 27, 25, 31, 32, 35, 36]      
+
+    }
+)
+fig = px.bar(
+    data_frame= temps,
+    x = "day",
+    y = "temp",
+    title= "Temperature moyennes journalieres "
+
+)
+
+st.plotly_chart(fig)
